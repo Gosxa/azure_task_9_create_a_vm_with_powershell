@@ -11,7 +11,7 @@ $dnsLabel = "matebox$(Get-Random)"
 
 $sshKeyName = "linuxboxsshkey"
 $vmName = "matebox"
-$vmSize = "Standard_B2ats_v2"
+$vmSize = "Standard_B1s"
 
 # --------------------------------------------------
 # Resource Group
