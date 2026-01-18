@@ -78,5 +78,4 @@ New-AzVm `
     -SubnetName $subnetName `
     -SecurityGroupName $nsgName `
     -PublicIpAddressName $publicIpName `
-    -SshKeyName $sshKeyName `
-
+    -SshKeyName $sshKeyName
